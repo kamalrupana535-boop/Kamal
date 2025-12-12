@@ -1,0 +1,8 @@
+{
+  "name": "Copy of GraminHealth - Farm & Rural Hospital Assistant",
+  "description": "A dedicated medical assistance app for rural India. Finds nearby hospitals from your farm location using AI-powered maps and provides instant medical guidance.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
